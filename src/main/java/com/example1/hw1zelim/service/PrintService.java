@@ -1,4 +1,4 @@
-package com.example.hw1zelim.service;
+package com.example1.hw1zelim.service;
 
 public interface PrintService {
 

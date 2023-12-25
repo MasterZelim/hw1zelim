@@ -1,4 +1,4 @@
-package com.example.hw1zelim;
+package com.example1.hw1zelim;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

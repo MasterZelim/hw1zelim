@@ -1,7 +1,7 @@
-package com.example.hw1zelim;
+package com.example1.hw1zelim;
 
 
-import com.example.hw1zelim.service.PrintServiceImpl;
+import com.example1.hw1zelim.service.PrintServiceImpl;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

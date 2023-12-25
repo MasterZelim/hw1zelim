@@ -1,4 +1,4 @@
-package com.example.hw1zelim.model;
+package com.example1.hw1zelim.model;
 
 import java.util.List;
 

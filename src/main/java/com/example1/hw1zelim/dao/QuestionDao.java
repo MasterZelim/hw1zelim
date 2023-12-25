@@ -1,6 +1,6 @@
-package com.example.hw1zelim.dao;
+package com.example1.hw1zelim.dao;
 
-import com.example.hw1zelim.model.Question;
+import com.example1.hw1zelim.model.Question;
 
 import java.util.List;
 

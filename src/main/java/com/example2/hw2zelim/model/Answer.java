@@ -1,4 +1,4 @@
-package com.example.hw1zelim.model;
+package com.example2.hw2zelim.model;
 
 public class Answer {
 

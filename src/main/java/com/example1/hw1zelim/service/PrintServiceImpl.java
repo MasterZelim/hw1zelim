@@ -1,6 +1,6 @@
-package com.example.hw1zelim.service;
+package com.example1.hw1zelim.service;
 
-import com.example.hw1zelim.dao.QuestionDao;
+import com.example1.hw1zelim.dao.QuestionDao;
 
 public class PrintServiceImpl implements PrintService {
 
